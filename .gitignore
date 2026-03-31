@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+*.pyc
+output.csv
+output.parquet
+ny_taxi_postgres_data/
+*.ipynb_checkpoints
+.env
