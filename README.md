@@ -10,15 +10,13 @@
 
 ## 🇧🇷 Português
 
-> Workshop prático para aprender Docker construindo um pipeline de ingestão de dados de táxi de Nova York.
-
 ### Visão Geral
 
-Este repositório documenta uma jornada de aprendizado prático com Docker. A partir de conceitos fundamentais (imagens, containers, volumes e redes), você vai subir um banco de dados PostgreSQL, ingerir dados reais do dataset NY Taxi e explorá-los com pgAdmin e notebooks Jupyter — tudo orquestrado com Docker e Docker Compose.
+Este repositório documenta a minha jornada de aprendizado prático com Docker. A partir de conceitos fundamentais (imagens, containers, volumes e redes), eu aprendi a subir um banco de dados PostgreSQL, ingerir dados reais do dataset NY Taxi e explorá-los com pgAdmin e notebooks Jupyter — tudo orquestrado com Docker e Docker Compose.
 
 ---
 
-### O que você vai aprender
+### O que eu aprendi
 
 | Conceito | Descrição |
 |---|---|
@@ -326,21 +324,19 @@ Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais det
 
 ### Contribuição
 
-Contribuições são bem-vindas! Leia o [CONTRIBUTING.md](CONTRIBUTING.md) para saber como participar.
+Contribuições são bem-vindas! 
 
 ---
 
 ## 🇺🇸 English
 
-> Hands-on workshop to learn Docker by building a New York taxi data ingestion pipeline.
-
 ### Overview
 
-This repository documents a hands-on learning journey with Docker. Starting from core concepts (images, containers, volumes, and networks), you will spin up a PostgreSQL database, ingest real data from the NY Taxi dataset, and explore it with pgAdmin and Jupyter notebooks — all orchestrated with Docker and Docker Compose.
+This repository documents my hands-on learning journey with Docker. Starting from core concepts (images, containers, volumes, and networks), I learned how to spin up a PostgreSQL database, ingest real data from the NY Taxi dataset, and explore it using pgAdmin and Jupyter notebooks — all orchestrated with Docker and Docker Compose.
 
 ---
 
-### What You Will Learn
+### What I Learned
 
 | Concept | Description |
 |---|---|
