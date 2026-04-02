@@ -21,6 +21,14 @@
 
 Este repositório documenta a minha jornada de aprendizado prático com Docker. A partir de conceitos fundamentais (imagens, containers, volumes e redes), eu aprendi a subir um banco de dados PostgreSQL, ingerir dados reais do dataset NY Taxi e explorá-los com pgAdmin e notebooks Jupyter — tudo orquestrado com Docker e Docker Compose.
 
+### Arquitetura do Projeto
+
+<div align="center">
+
+![Arquitetura do Projeto](assets/architecture.png)
+
+</div>
+
 ---
 
 ### O que eu aprendi
@@ -182,6 +190,12 @@ No pgAdmin, crie um novo servidor apontando para:
 - **Username**: `root`
 - **Password**: `root`
 
+<div align="center">
+
+![pgAdmin Queries](assets/pgadmin-queries.png)
+
+</div>
+
 ---
 
 ### Rodando com Docker Compose
@@ -340,6 +354,14 @@ Contribuições são bem-vindas!
 ### Overview
 
 This repository documents my hands-on learning journey with Docker. Starting from core concepts (images, containers, volumes, and networks), I learned how to spin up a PostgreSQL database, ingest real data from the NY Taxi dataset, and explore it using pgAdmin and Jupyter notebooks — all orchestrated with Docker and Docker Compose.
+
+### Project Architecture
+
+<div align="center">
+
+![Project Architecture](assets/architecture.png)
+
+</div>
 
 ---
 
