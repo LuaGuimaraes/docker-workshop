@@ -2,6 +2,13 @@
 
 <div align="center">
 
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-336791?logo=postgresql&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-4-2f4b7c?logo=postgresql&logoColor=white)
+![uv](https://img.shields.io/badge/Package%20Manager-uv-F6C041?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 [🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
 
 </div>
